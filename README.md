@@ -48,16 +48,6 @@ ExploreAR was rapid-prototyped end-to-end for this hackathon, with a strong focu
 - Offline-first safety data for low-connectivity regions
 - Community-verified safety scores layered on top of live data
 - Multi-language real-time translation baked into Search and Scan
-
-## 👥 Team Vision Hackerz
-
-| Name | Role |
-|---|---|
-| [Name] | |
-| [Name] | |
-| [Name] | |
-| [Name] | |
-
 ---
 
 *Discover the World
