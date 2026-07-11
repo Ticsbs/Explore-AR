@@ -60,4 +60,5 @@ ExploreAR was rapid-prototyped end-to-end for this hackathon, with a strong focu
 
 ---
 
-*Built with persistence, a lot of debugging, and the belief that the twenty-first attempt is the one that lands.*
+*Discover the World
+Like Never Before*
