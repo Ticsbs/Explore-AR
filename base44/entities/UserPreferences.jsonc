@@ -1,0 +1,47 @@
+{
+  "name": "UserPreferences",
+  "type": "object",
+  "properties": {
+    "high_contrast": {
+      "type": "boolean",
+      "default": false
+    },
+    "large_text": {
+      "type": "boolean",
+      "default": false
+    },
+    "voice_navigation": {
+      "type": "boolean",
+      "default": false
+    },
+    "screen_reader": {
+      "type": "boolean",
+      "default": false
+    },
+    "captions": {
+      "type": "boolean",
+      "default": false
+    },
+    "sign_language": {
+      "type": "boolean",
+      "default": false
+    },
+    "wheelchair_routes": {
+      "type": "boolean",
+      "default": false
+    },
+    "reading_mode": {
+      "type": "boolean",
+      "default": false
+    },
+    "language": {
+      "type": "string",
+      "default": "English"
+    },
+    "notifications": {
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "required": []
+}

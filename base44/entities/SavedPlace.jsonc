@@ -1,0 +1,36 @@
+{
+  "name": "SavedPlace",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "rating": {
+      "type": "number"
+    },
+    "country": {
+      "type": "string"
+    },
+    "budget_estimate": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "number"
+    },
+    "lng": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "name"
+  ]
+}

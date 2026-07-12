@@ -1,0 +1,62 @@
+{
+  "name": "Trip",
+  "type": "object",
+  "properties": {
+    "destination": {
+      "type": "string"
+    },
+    "budget": {
+      "type": "number"
+    },
+    "days": {
+      "type": "number"
+    },
+    "travel_style": {
+      "type": "string",
+      "enum": [
+        "solo",
+        "friends",
+        "family",
+        "couple",
+        "business"
+      ]
+    },
+    "interests": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "accessibility": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "itinerary": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "planned",
+        "completed"
+      ],
+      "default": "draft"
+    },
+    "saved": {
+      "type": "boolean",
+      "default": false
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "destination"
+  ]
+}
