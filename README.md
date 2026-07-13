@@ -50,5 +50,5 @@ ExploreAR was rapid-prototyped end-to-end for this hackathon, with a strong focu
 - Multi-language real-time translation baked into Search and Scan
 ---
 
-*Discover the World
-Like Never Before*
+Discover the World
+Like Never Before
